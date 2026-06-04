@@ -1,0 +1,26 @@
+# Büyük veri dosyaları — GitHub'a yüklenmiyor
+data/
+*.parquet
+*.csv
+*.pkl
+
+# Sadece model beynine (pkl) izin ver
+!models/*.pkl
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+*.egg-info/
+dist/
+build/
+
+# Ortam
+venv/
+.env
+.venv
+
+# Sistem
+.DS_Store
+Thumbs.db

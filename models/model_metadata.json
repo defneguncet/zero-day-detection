@@ -1,0 +1,6 @@
+{
+    "best_threshold": 0.0066476427018642426,
+    "scale_pos_weight": 9.079,
+    "total_features": 72,
+    "status": "Leakage Giderildi - Temiz Model"
+}
