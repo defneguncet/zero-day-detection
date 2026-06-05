@@ -92,8 +92,3 @@ Ham Trafik → Feature Engineering → XGBoost ─────┐
 - **Precision:** %88
 - **F1-Score:** %89
 
----
-
-## 🌐 Canlı Demo
-
-[https://zerosentinel.onrender.com](https://zerosentinel.onrender.com)
