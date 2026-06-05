@@ -42,19 +42,6 @@ zero-day-detection/
 
 ---
 
-## 🚀 Kurulum (Lokal)
-
-```bash
-git clone https://github.com/KULLANICI_ADIN/zero-day-detection.git
-cd zero-day-detection/dashboard
-pip install -r requirements.txt
-python app.py
-```
-
-Tarayıcıda: **http://localhost:5000**
-
----
-
 ## 🔬 Metodoloji
 
 ### Zero-Day Simülasyonu
