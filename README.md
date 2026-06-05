@@ -74,8 +74,9 @@ Ham Trafik → Feature Engineering → XGBoost ─────┐
 
 ## 📊 Sonuçlar
 
-- **ROC-AUC:** 0.8637
-- **Recall:** %100 (zero-day dahil)
-- **Precision:** %88
-- **F1-Score:** %89
+* **ROC-AUC:** 0.8637
+* **Recall:** %81 (zero-day dahil)
+* **Precision:** %46 (saldırılar için)
+* **Precision:** %94 (normal trafik için)
+* **Accuracy:** %78
 
