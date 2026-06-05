@@ -13,7 +13,6 @@ XGBoost + Isolation Forest hibrit mimarisi ve SHAP açıklanabilir yapay zeka il
 | **Açıklanabilirlik** | SHAP (TreeExplainer) |
 | **Zero-Day Simülasyonu** | Bot & Infilteration sınıfları eğitimde gizlendi |
 | **Arayüz** | Flask Dashboard |
-| **Metrikler** | Recall %100, F1 %89, AUC 0.86+ |
 
 ---
 
